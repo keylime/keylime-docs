@@ -10,3 +10,4 @@ User Guide
    user_guide/runtime_ima.rst
    user_guide/encrypted_payload.rst
    user_guide/revocation.rst
+   user_guide/use_pre_created_ek.rst
