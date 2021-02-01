@@ -150,7 +150,7 @@ Python-based prerequisites
 
 The following Python packages are required:
 
-* pycryptodomex>=3.4.1
+* python-cryptography>=????
 * tornado>=4.3
 * m2crypto>=0.21.1
 * pyzmq>=14.4
