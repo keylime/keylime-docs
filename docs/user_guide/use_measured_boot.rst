@@ -81,6 +81,7 @@ the aforementioned step 4.
 An example follows:
 
     echo "{}" > measured_boot_reference_state.txt
+
     keylime_tenant -c add -t <AGENT IP> -v <VERIFIER IP> -u <AGENT UUID> --mb_refstate ./measured_boot_reference_state.txt
 
 Note: please keep in mind that the IMA-specific options can be combined with
